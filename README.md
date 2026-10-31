@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mdnishad49390/mdnishad49390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- হেডার ব্যানার -->
+  <img src="https://via.placeholder.com/1200x300/0a0f1f/22d3ee?text=%3C%2FN%3E+Md.+Nishad+%7C+Full+Stack+Software+Developer" alt="Header Banner" width="100%" />
 
-Here are some ideas to get you started:
+  # Hi there, I'm Md. Nishad 👋
+  **Full Stack Software Developer (Intern) | CSE @ AIUB**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <a href="https://linkedin.com/in/md-nishad-79356442a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:nishadmdnishad3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://nishad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1f?style=for-the-badge&logo=vercel&logoColor=22d3ee" /></a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 About Me
+- 💼 Currently working as a **Full Stack Software Developer (Intern)** at **Raktch Technology and Software**.
+- 🎓 B.Sc. in Computer Science & Engineering at **American International University-Bangladesh (AIUB)**.
+- ⚡ Architected live enterprise production systems like **Enterprise Invoicing & Recurring Billing System** (billing.raktch.com).
+- 🧠 Built AI/NLP solutions such as **BanglaAgent** (RAG pipeline using FAISS & OpenAI).
+- 🎯 Passionate about clean code, scalable REST APIs, system security, and database query optimization.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Backend & APIs:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+
+**Frontend:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Databases & Cloud:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnishad49390&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnishad49390&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnishad49390&theme=tokyonight&hide_border=true" width="97%" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Live Demo / Repo |
+| :--- | :--- | :---: |
+| **Enterprise Billing & Invoicing System** | Automated subscription billing with atomic sequence locks (`select_for_update`) and WeasyPrint PDF dispatch. | [Live System ↗](https://billing.raktch.com) |
+| **BanglaAgent** | AI Research Assistant using FAISS vector search, OpenAI LLM, and RAG pipeline for Bengali texts. | [Repository ↗](https://github.com/mdnishad49390) |
+| **EcommercePlatform** | Full-Stack retail app with Django REST APIs, React (Vite), and multi-tier RBAC authentication. | [Repository ↗](https://github.com/mdnishad49390/E-commerce-Platform) |
