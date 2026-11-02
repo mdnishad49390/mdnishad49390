@@ -34,7 +34,7 @@
 
 **Backend & Frameworks:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,python,celery,java,cs,cpp" />
+  <img src="https://skillicons.dev/icons?i=django,python,java,cs,cpp" />
 </p>
 
 **Databases & DevOps / Tools:**
