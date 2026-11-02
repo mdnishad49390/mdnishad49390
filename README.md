@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- হেডার ব্যানার -->
+  <!-- Heder banner -->
   <img src="https://via.placeholder.com/1200x300/0a0f1f/22d3ee?text=%3C%2FN%3E+Md.+Nishad+%7C+Full+Stack+Software+Developer" alt="Header Banner" width="100%" />
 
   # Hi there, I'm Md. Nishad 👋
