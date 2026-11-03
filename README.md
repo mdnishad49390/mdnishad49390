@@ -1,7 +1,6 @@
-<div align="center">
-
-  <!-- Heder banner -->
-  <img src="https://via.placeholder.com/1200x300/0a0f1f/22d3ee?text=%3C%2FN%3E+Md.+Nishad+%7C+Full+Stack+Software+Developer" alt="Header Banner" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=50&lines=%3C%2F%3E+Md.+Nishad;Full+Stack+Software+Developer;Building+Enterprise+Systems+%26+AI+Tools" alt="Typing SVG" />
+</p>
 
   # Hi there, I'm Md. Nishad 👋
   **Full Stack Software Developer (Intern) | CSE @ AIUB**
