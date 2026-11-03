@@ -1,16 +1,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=%3C%2F%3E+Md.+Nishad;Full+Stack+Software+Developer;Building+Enterprise+Systems+%26+AI+Tools" alt="Typing SVG" />
 </p>
-  # Hi there, I'm Md. Nishad 👋
-  **Full Stack Software Developer (Intern) | CSE @ AIUB**
 
-  <p>
-    <a href="https://linkedin.com/in/md-nishad-79356442a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:nishadmdnishad3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://nishad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1f?style=for-the-badge&logo=vercel&logoColor=22d3ee" /></a>
-  </p>
+# Hi there, I'm Md. Nishad 👋
+**Full Stack Software Developer (Intern) | CSE @ AIUB**
 
-</div>
+<p>
+  <a href="https://linkedin.com/in/md-nishad-79356442a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nishadmdnishad3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://nishad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1f?style=for-the-badge&logo=vercel&logoColor=22d3ee" /></a>
+</p>
 
 ---
 
@@ -22,7 +21,7 @@
 - 🎯 Passionate about clean code, scalable REST APIs, system security, and database query optimization.
 
 ---
----
+
 ### 🛠️ Tech Stack & Tools
 
 **Frontend & Styling:**
@@ -39,6 +38,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,linux,docker,postman" />
 </p>
+
 ---
 
 ### 📊 GitHub Analytics
