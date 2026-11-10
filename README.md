@@ -41,14 +41,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=mdnishad49390&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 | Project | Description | Live Demo / Repo |
