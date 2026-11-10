@@ -8,7 +8,7 @@
 <p>
   <a href="https://linkedin.com/in/md-nishad-79356442a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nishadmdnishad3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://nishad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1f?style=for-the-badge&logo=vercel&logoColor=22d3ee" /></a>
+  <a href="https://mdnishad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1f?style=for-the-badge&logo=vercel&logoColor=22d3ee" /></a>
 </p>
 
 ---
