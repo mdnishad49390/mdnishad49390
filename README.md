@@ -45,13 +45,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnishad49390&theme=tokyonight&hide_border=true" width="97%" />
 </p>
-### 🌟 Featured Projects
 
-| Project | Description | Live Demo / Repo |
-| :--- | :--- | :---: |
-| **Enterprise Billing & Invoicing System** | Automated subscription billing with atomic sequence locks (`select_for_update`) and WeasyPrint PDF dispatch. | [Live System ↗](https://billing.raktch.com) |
-| **BanglaAgent** | AI Research Assistant using FAISS vector search, OpenAI LLM, and RAG pipeline for Bengali texts. | [Repository ↗](https://github.com/mdnishad49390) |
-| **EcommercePlatform** | Full-Stack retail app with Django REST APIs, React (Vite), and multi-tier RBAC authentication. | [Repository ↗](https://github.com/mdnishad49390/E-commerce-Platform) |
 ### 🌟 Featured Projects
 
 | Project | Description | Live Demo / Repo |
