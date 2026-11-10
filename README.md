@@ -40,10 +40,11 @@
 </p>
 
 ---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnishad49390&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnishad49390&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -51,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=mdnishad49390&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnishad49390&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
